@@ -41,11 +41,11 @@ node cli.js view <id>
 node cli.js delete <id>
 
 🌐 API Endpoints
-Method	Endpoint	 Description
+Method	Endpoint	   Description
 GET	    /notes	Get  all notes
 GET	    /notes/:id	 Get single note
-POST	/notes	Add  a new note
-PUT 	/notes/:id	 Update a note
+POST	  /notes	Add  a new note
+PUT 	  /notes/:id	 Update a note
 DELETE	/notes/:id	 Delete a note
 
 
