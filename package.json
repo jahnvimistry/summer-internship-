@@ -1,0 +1,16 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "A full-stack Notes App with CLI, API, and Web UI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node api_test.js"
+  },
+  "keywords": [],
+  "author": "Jahnvi Mistry",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
